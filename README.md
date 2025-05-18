@@ -48,7 +48,7 @@ The project is implemented in Python and uses the following libraries:
 ## Installation
 To run this project, clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/Mintu-23/ML-Project.git
+git clone https://github.com/Mintu-2306/ML-Project.git
 cd ML-Project
 pip install -r requirements.txt
 ```
